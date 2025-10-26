@@ -6,6 +6,15 @@ Un ouvrage pratique et progressif pour apprendre Python à travers 300 exercices
 
 ---
 
+## 📄 Licence
+
+Ce projet est sous licence **MIT** - voir le fichier [`LICENSE`](./LICENSE) pour plus de détails.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+---
+
 ## 🎯 Objectif du Livre
 
 Ce livre est conçu pour vous accompagner dans votre apprentissage de Python de manière **pratique et progressive**. Que vous soyez débutant complet ou développeur expérimenté souhaitant consolider vos bases, vous trouverez dans ces 300 exercices un parcours d'apprentissage structuré et efficace.
