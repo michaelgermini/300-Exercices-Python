@@ -193,6 +193,19 @@ Vous avez maintenant accès aux **solutions complètes** de tous les 300 exercic
 
 ---
 
+## 📄 **Licence**
+
+Ce projet est sous licence **MIT**, ce qui signifie :
+
+✅ **Libre utilisation** : Vous pouvez utiliser, copier, modifier et distribuer le code
+✅ **Usage commercial** : Autorisé sans restriction
+✅ **Pas de garantie** : Utilisation à vos risques et périls
+✅ **Attribution requise** : Mention du copyright dans les copies
+
+Voir le fichier [`LICENSE`](../LICENSE) du projet principal pour plus de détails.
+
+---
+
 **📝 Note :** Ces solutions sont fournies à des fins éducatives. Utilisez-les pour apprendre et comprendre, pas seulement pour copier. La programmation est un art qui se maîtrise par la pratique !
 
 *Créé avec ❤️ pour la communauté Python* 🐍
