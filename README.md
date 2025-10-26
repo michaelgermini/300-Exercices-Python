@@ -18,6 +18,39 @@ Ce livre est conçu pour vous accompagner dans votre apprentissage de Python de 
 
 ---
 
+## 📋 Solutions Disponibles
+
+**🎉 BONNE NOUVELLE !** Toutes les solutions des 300 exercices sont maintenant disponibles dans le dossier [`Solutions/`](./Solutions/) !
+
+### ✅ **Ce que vous y trouverez :**
+- **Solutions complètes** pour tous les 300 exercices
+- **Explications détaillées** de chaque concept abordé
+- **Tests de validation** avec des exemples concrets
+- **Optimisations et astuces** pour améliorer le code
+- **Applications pratiques** du monde réel
+
+### 📚 **Structure des Solutions :**
+```
+Solutions/
+├── README.md                           # Guide d'utilisation des solutions
+├── solutions-partie1.md               # Bases Python (exercices 1-50)
+├── solutions-partie2.md               # Contrôle de flux (51-100)
+├── solutions-partie3.md               # Fonctions (101-150)
+├── solutions-partie4.md               # Structures de données (151-200)
+├── solutions-partie5.md               # POO (201-230)
+├── solutions-partie6.md               # Fichiers et BDD (231-260)
+├── solutions-partie7.md               # Algorithmes (261-285)
+└── solutions-partie8.md               # Projets avancés (286-300)
+```
+
+### 🎯 **Comment utiliser les solutions :**
+1. **Essayez d'abord** : Résolvez l'exercice par vous-même
+2. **Consultez si bloqué** : Lisez la solution pour comprendre
+3. **Analysez** : Étudiez les explications et les alternatives
+4. **Améliorez** : Modifiez et étendez le code
+
+---
+
 ## 🚀 Comment Utiliser ce Livre
 
 ### Pour les Débutants
